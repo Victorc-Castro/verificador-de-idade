@@ -1,5 +1,6 @@
 body{
-    background: rgb(10, 101, 107);
+    background-image: url(./assets/bg.png);
+    background-size: cover;
     font: normal 18pt Arial;
 }
 
